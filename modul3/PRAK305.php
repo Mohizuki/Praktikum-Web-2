@@ -13,6 +13,7 @@
     </form>
 </body>
 </html>
+
 <?php
 if (isset($_POST['submit'])) {
         $teks=$_POST['teks'];
